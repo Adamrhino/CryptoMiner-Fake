@@ -8,5 +8,5 @@ ________________________________________________________________________________
 3. Open main.py and ENJOY!!
 ___________________________________
 
-GitHub: https://www.github.com/adamrhino
+GitHub: https://www.github.com/Adamrhino
 ________________________________________
