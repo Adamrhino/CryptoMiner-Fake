@@ -4,7 +4,7 @@ Create in:	 Python 3.9
 Programed in: 	 PyCharm Comunity Edition 2022.1.2
 ___________________________________________________
  
-GitHub: 	https://www.github.com/adamrhino
+GitHub: 	https://www.github.com/Adamrhino
 ____________________________________________________
 
 	MUST BE INSTALLED "Colorama" AND "Python"
